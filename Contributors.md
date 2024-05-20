@@ -2424,6 +2424,7 @@ Dante Sanchez
 - [Nb](https://github.com/Neeraj6Maths)
 - [Arthur Griffith](https://github.com/agriffith18)
 - [charlesdzadu](https://github.com/charlesdzadu)
+- [Jamal Bankole](https://github.com/JB012)
 - [Catherine Mokgothu](https://github.com/catherinemokgothu)
 - [Milind Dhamu](https://github.com/milinddhamu)
 - [jorge zabbara](https://github.com/jorgezabbaram)
